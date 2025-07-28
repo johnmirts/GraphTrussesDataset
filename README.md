@@ -11,9 +11,9 @@
 ## Overview
 This is the first public release of the **Graph Structural Truss Dataset**, intended for research in graph machine learning, topological clustering, and structural analysis. The dataset comprises weighted, undirected graphs representing networks of bars under tension and compression, in a state of static equilibrium.
 
-The dataset was generated using a grammar-based design workflow developed by [Dr. sc. Ioannis Mirtsopoulos]((https://www.linkedin.com/in/ioannismirtsopoulos/)) during his doctoral research at the [Structural Xploration Lab (SXL)]((https://www.epfl.ch/labs/sxl/)) of École polytechnique fédérale de Lausanne (EPFL), and further refined during his postdoctoral research in the [Digital Structures]((http://digitalstructures.mit.edu/)) group at the Massachusetts Institute of Technology (MIT).
+The dataset was generated using a grammar-based design workflow developed by [Dr. sc. Ioannis Mirtsopoulos](https://www.linkedin.com/in/ioannismirtsopoulos/) during his doctoral research at the [Structural Xploration Lab (SXL)](https://www.epfl.ch/labs/sxl/) of École polytechnique fédérale de Lausanne (EPFL), and further refined during his postdoctoral research in the [Digital Structures](http://digitalstructures.mit.edu/) group at the Massachusetts Institute of Technology (MIT).
 
-The design methodology has been implemented as a plugin named [Libra]((https://github.com/StructuralXplorationLab/Libra)), developed for the parametric modeling environment Grasshopper within Rhinoceros 3D. Dataset generation employed various sampling strategies, with the outputs of each method organized into correspondingly named folders.
+The design methodology has been implemented as a plugin named [Libra](https://github.com/StructuralXplorationLab/Libra), developed for the parametric modeling environment Grasshopper within Rhinoceros 3D. Dataset generation employed various sampling strategies, with the outputs of each method organized into correspondingly named folders.
 
 ## Contents
 Each folder contains graphs generated with the sampling method indicated as the folder name.
