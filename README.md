@@ -5,6 +5,7 @@
 - [Contents](#contents)
 - [Usage](#usage)
 - [Preprocessing](#preprocessing)
+- [Related publications](#publications)
 - [License](#license)
 - [Citation](#citation)
 
@@ -57,7 +58,7 @@ Copy the `.csv` files locally to your system and extract the relevant informatio
 All graphs have been cleaned and verified for connectivity, planarity, and zero force members.
 
 ## Related publications
-- **Mirtsopoulos, I.**, Fivet, C., Mueller, C., 2025. “Integrating constructability constraints into an equilibrium-aware grammar for geenrative structural design”, in: _Structures and Architecture. REstructure Rematerialize REthink REuse_ pp. 901–908. <https://doi.org/10.1201/9781003023555-136>
+- **Mirtsopoulos, I.**, Fivet, C., Mueller, C., 2025. “Integrating constructability constraints into an equilibrium-aware grammar for geenrative structural design”, in: _Structures and Architecture. REstructure Rematerialize REthink REuse_ pp. 901–908. <https://doi.org/10.1201/9781003658641>
 
 - **Mirtsopoulos, I.**, Fivet, C., 2023. “Structural Topology Exploration through Policy-Based Generation of Equilibrium Representations.” _Computer-Aided Design_ 160 (July 1, 2023): 103518. <https://doi.org/10.1016/j.cad.2023.103518>
 
