@@ -5,7 +5,7 @@
 - [Contents](#contents)
 - [Usage](#usage)
 - [Preprocessing](#preprocessing)
-- [Related publications](#publications)
+- [Related publications](#related-publications)
 - [License](#license)
 - [Citation](#citation)
 
